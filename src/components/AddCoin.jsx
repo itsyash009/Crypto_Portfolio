@@ -8,13 +8,18 @@ const AddCoin = () => {
     "bitcoin",
     "ethereum",
     "ripple",
+    "polkadot",
     "tether",
     "bitcoin-cash",
     "litecoin",
     "eos",
+    "stellar",
+    "monero",
+    "avalanche",
     "okb",
     "tezos",
     "cardano",
+    "dogecoin"
   ];
 
   const handleClick = (coin) => {
